@@ -319,6 +319,8 @@ footer .column i {
         margin-left: 6%;
         margin-top: 5%;
     }
+
+  
 }
 
 /* Large screens (desktops) */
@@ -418,7 +420,7 @@ footer .column i {
 
     #affinity-img {
         max-width: 60%;
-        max-height: auto;
+        height: 30%;
         padding: 15px;
     }
 
@@ -435,5 +437,9 @@ footer .column i {
     #icons i {
         margin-right: -4%;
         padding-left: 0;
+    }
+
+    #intro-card {
+        margin-top: -5%;
     }
 }

@@ -111,6 +111,12 @@ img {
     padding: 15px;
 }
 
+#headshot {
+    max-width: 80%;
+    height: auto;
+    margin-top: -5%;
+}
+
 footer {
     text-align: center;
     display: block;
@@ -291,6 +297,11 @@ footer .column i {
          margin: 0;
          margin-top: 1%;
     }
+
+    #headshot {
+    max-width: 70%;
+    height: auto;
+    }
 }
 
 /* Medium screens (tablets) */
@@ -319,6 +330,10 @@ footer .column i {
         cursor: pointer;
         margin-left: 6%;
         margin-top: 5%;
+    }
+    #headshot {
+    max-width: 70%;
+    height: auto;
     }
 }
 
@@ -407,8 +422,13 @@ footer .column i {
 
     #UCI-logo {
         max-width: auto;
+        height: 40%;
         padding: 0px;
         margin-top: 0%;
+    }
+
+    #UCI-card {
+        align-items: center;
     }
 
     #Comment-img {
@@ -421,6 +441,12 @@ footer .column i {
         max-width: 60%;
         height: auto;
         padding: 15px;
+    }
+
+    #headshot {
+    max-width: 50%;
+    height: auto;
+    margin-top: -17%;
     }
 
     #icons i {
