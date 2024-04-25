@@ -44,6 +44,10 @@ function hustle() {
     window.location.href = "hustle-n-code.html";
 }
 
+function svusd() {
+    window.location.href = "all-svusd.html";
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     const menu = document.querySelector(".menu");
     const toggleButton = document.querySelector(".hamburger");
