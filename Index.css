@@ -377,6 +377,10 @@ footer .column i {
         padding-bottom: 10%;
     }
 
+    #intro {
+        line-height: normal;
+    }
+
     .section {
         display: flex;
         width: 100%;
