@@ -48,6 +48,10 @@ function svusd() {
     window.location.href = "all-svusd.html";
 }
 
+function ctc() {
+    window.location.href = "ctc.html";
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     const menu = document.querySelector(".menu");
     const toggleButton = document.querySelector(".hamburger");
